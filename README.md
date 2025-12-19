@@ -1,9 +1,9 @@
-# ChronosAttend-CLI
+# AttendanceLog-Parser
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-A streamlined CLI engine for processing raw attendance logs and CSV data. Built for speed and auditability, **ChronosAttend-CLI** allows you to parse, search, and report on attendance records without the overhead of a database management system.
+A streamlined CLI engine for processing raw attendance logs and CSV data. Built for speed and auditability, **AttendanceLog-Parser** allows you to parse, search, and report on attendance records without the overhead of a database management system.
 
 ## 📂 Project Structure
 
@@ -20,8 +20,8 @@ A streamlined CLI engine for processing raw attendance logs and CSV data. Built 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/karimullahchowdhury12/ChronosAttend-CLI.git
-cd ChronosAttend-CLI
+git clone https://github.com/karimullahchowdhury12/AttendanceLog-Parser.git
+cd AttendanceLog-Parser
 ```
 
 ### 2. Environment Configuration
